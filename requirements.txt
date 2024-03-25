@@ -1,3 +1,4 @@
+cryptography==41.0.7
 geocoder==1.38.1
 mysql-connector-python==8.3.0
 pypdf==3.9.0
